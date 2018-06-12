@@ -34,7 +34,7 @@
     - [4.3 Erstellen und Hochladen der Log-Datei](#43-erstellen-und-hochladen-der-log-datei)
 
     
-- [5. Phyton Dateien](#5-phyton-dateien)
+- [5. Python Dateien](#5-python-dateien)
     - [5.1 Allgemeines zur .py-Datei](#51-allgemeines-zur-py-datei)
     - [5.2 Bearbeiten einer .py-Datei](#52-bearbeiten-einer-py-datei)
     - [5.3 Speicherort der einzelnen Webseiten (.py Dateien)](#53-speicherort-der-einzelnen-webseiten-py-dateien)
